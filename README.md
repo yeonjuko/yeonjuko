@@ -32,5 +32,5 @@
 </div>
 <br>
 <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjuko"/>
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjuko)](https://github.com/yeonjuko/github-readme-stats)
 </div>
